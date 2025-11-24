@@ -1,0 +1,3 @@
+[submodule "upstream"]
+	path = upstream
+	url = git@github.com:alura-cursos/alura-python-testes.git
